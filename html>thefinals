@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <link
+      id="the_finals_title"
+      rel="icon"
+      href="https://i1.sndcdn.com/artworks-QxV3nhblY9HHwRTj-xRSmUw-t500x500.jpg"
+    />
+    <title>THE FINALS</title>
+  </head>
+  <body>
+    <header>
+      <div class="div_header">
+        <a href="index.html"
+          ><img
+            id="the_finals_logo"
+            src="https://images.squarespace-cdn.com/content/v1/62d66fa29e72c560f8efc020/1bfee91c-eff5-45ff-898a-72f9a6210485/thefinals_web_thefinals_small_01.png?format=1500w"
+            alt="The Finals logo"
+        /></a>
+        <nav class="nav_header">
+          <ul class="li_config">
+            <a target="_self" href="https://id.embark.games/support"
+              ><li id="support_text">SUPPORT</li></a
+            >
+            <a target="_self" href="https://id.embark.games/id/sign-in"
+              ><li id="embark_text">EMBARK PORTAL</li></a
+            >
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main class="main_content">
+      <div class="div_main">
+        <img
+          id="img_main_the_finals"
+          src="https://images.squarespace-cdn.com/content/v1/62d66fa29e72c560f8efc020/3789675f-5fbe-40bb-be9c-8c629c1b6971/S4_top_web_banner.png?format=1500w"
+          alt=""
+        />
+        <span class="free_to_play_span">
+          <h2 id="free_to_play_text">FREE TO PLAY</h2>
+        </span>
+      </div>
+      <div class="wolrd_tour1">
+        <br /><br />
+        <p id="p_text">
+          WORLD TOUR | <b>SPONSORS</b><br />
+          <b>Beyond boundaries, within reach.</b>
+          <br /><br />
+          <b
+            >With ENGIMO's networks, you’re <br />
+            never alone, even when you’re <br />
+            alone. Every message. Every new <br />
+            friend in our global community. <br />
+            We're there with you. Truly.</b
+          >
+        </p>
+      </div>
+      <div class="wolrd_tour2">
+        <br /><br />
+        <p id="p_text">
+          WORLD TOUR | <b>SPONSORS</b><br />
+          <b>Digitally insured, virtually secured.</b>
+          <br /><br />
+          <b>
+            HOLTOW has an insurance policy for <br />
+            everyone: Sun Insurance, Alien <br />
+            Invasion Insurance, Avatar Protection <br />
+            Insurance, and more.</b
+          >
+        </p>
+      </div>
+      <div class="wolrd_tour3">
+        <br /><br />
+        <p id="p_text">
+          WORLD TOUR | <b>SPONSORS</b><br />
+          <b>Transcend realities.</b>
+          <br /><br />
+          <b>
+            It's time to go from ordinary to <br />
+            exceptional. With just one hover-and- <br />
+            select, you can be anybody. You can <br />
+            be everybody.</b
+          >
+        </p>
+      </div>
+    </main>
+    <footer>
+      <div class="div_footer">
+        <p class="footer_text">
+          <br /><br /><br /><br /><br />
+          THE FINALS © 2022-2024 Embark Studios AB. THE FINALS and EMBARK
+          trademarks and logos are trademarks or registered trademarks of Embark
+          Studios AB. NEXON trademark and logo are trademarks or registered
+          trademarks of NXC Corporation. © 2024 Valve Corporation. <br />
+          Steam and the Steam logo are trademarks and/or registered trademarks
+          of Valve Corporation in the U.S. and/or other countries. © 2024 Epic
+          Games, Inc. All rights reserved. Unreal, Unreal Engine and their
+          respective logos are trademarks or registered trademarks of Epic
+          Games, Inc. in
+          <br />
+          the U.S. Patent and Trademark Office and elsewhere. All other
+          trademarks and trade names are the property of their respective
+          owners.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
