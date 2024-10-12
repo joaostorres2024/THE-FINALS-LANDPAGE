@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+}
+
+#the_finals_title {
+  border-radius: 80px;
+}
+
+#the_finals_logo {
+  margin-top: 11px;
+  margin-left: 50px;
+  float: left;
+  width: 130px;
+}
+
+.div_header {
+  height: 45px;
+  background-color: black;
+  margin: 0;
+}
+
+.li_config {
+  margin-right: 50px;
+  margin-top: 14px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  list-style: none;
+  text-decoration: none;
+  float: right;
+  display: flex;
+  color: white;
+}
+
+#support_text {
+  margin-right: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+#img_main_the_finals {
+  width: 100vw;
+}
+
+#free_to_play_text {
+  padding: 20px;
+  font-weight: 800;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.wolrd_tour1 {
+  font-size: 40px;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+  height: 550px;
+  width: 100vw;
+  background-color: #418a9d;
+}
+
+.wolrd_tour2 {
+  font-size: 40px;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+  height: 550px;
+  width: 100vw;
+  background-color: #eca307;
+}
+
+.wolrd_tour3 {
+  font-size: 40px;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+  height: 550px;
+  width: 100vw;
+  background-color: #0e75c4;
+}
+
+#p_text {
+  text-align: center;
+}
+
+.div_footer {
+  text-align: left;
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: #121212;
+  width: 100vw;
+  height: 300px;
+}
+
+.footer_text {
+  margin-left: 10px;
+}
